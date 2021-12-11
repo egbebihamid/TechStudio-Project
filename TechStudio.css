@@ -1,0 +1,304 @@
+body{
+    background-color: whitesmoke;
+}
+.A{
+    display: flex; 
+    justify-content: space-between;   
+}
+.B{
+    display: flex;
+    width: 500px;
+    /* margin-left: 10px;
+    padding-bottom: 100px; */
+}
+.C{
+    width: 360px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 17px;
+    /* margin-left: 500px;
+    margin-top: 40px; */
+    
+}
+.newdiv{
+    width: 46%;
+}
+.E{
+    background-color: whitesmoke;
+    height: 350px;
+    width: 400px;
+    position: relative;
+    left: 200px; 
+}
+.F{
+   display: flex;
+   /* justify-content: space-between; */
+}
+.H{
+    text-align: center;
+}
+.flex{
+    background-image: url(./images/bg.jpg);
+    display: flex;
+    padding-top: 100px;
+    padding-left: 20px;
+}
+.G{
+    position: relative;
+    left: 50px;
+    top: 10px;
+    bottom: 20px;
+}
+.hamid{
+    display: flex;
+    justify-content: space-around;
+    margin-block-end: 6px;
+}
+.hamskid{
+
+   
+}
+.reg{
+    margin-left: 10px;
+    margin-block-end: 6px;
+}
+.nm{
+    width: 150px;
+    height: 49px;
+    margin-block-end: 6px;
+}
+
+.ni{
+    width: 350px;
+    height: 49px;
+    margin-block-end: 6px;
+}
+.nii{
+    margin-block-end: 6px;
+}
+.no{
+    width: 358px;
+    height: 50px;    
+    border-radius: 5px;
+}
+.avatar{
+    margin-left: 170px;
+    border-radius: 50%;
+    height: 90px;
+}
+.pe2{
+    margin-left: 170px;
+    border-radius: 50%;
+    height: 90px;
+}
+.overall{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.D{
+    position: relative;
+    text-align: center;
+}
+.ri{
+    border-radius: 50%;
+    height: 90px;
+}
+.rilwan{
+    text-align: center;
+}
+.lol{
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.learn{
+    margin-left: 200px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30pt;
+}
+.div1{
+    border-radius: 10pt;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.div2{
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.art{
+    margin-left: 600px;
+    margin-top: 80px;
+}
+.container{
+    display: flex;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+.ha{
+    width: 700px;
+}
+.col{
+    background-color: white;
+    height: 450px;
+    width: 500px;
+    margin-top: 80px;
+    padding-left: 30px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 3px gray;
+    position: relative;
+    right: 120px;
+    bottom: 15px;
+}
+.that{
+    display: flex;
+}
+.color{
+    background-color: white;
+    margin-top: 100px;
+}
+.pic{
+    width: 500px;
+    margin-left: 100px;
+}
+.DO{
+     display: flex;
+}
+.HE{
+    width: 700px;
+    margin-left: 30px;
+}
+.div3{
+    margin-top: 80px;
+}
+.support{
+      margin-left: 700px;
+}
+.mp{
+    text-align: center;
+}
+.smile{
+    width: 500px;
+    margin-left: 100px;
+}
+.mom{
+    display: flex;
+}
+.son{
+    width: 700px;
+    margin-left: 30px;
+}
+.dad{
+    margin-top: 100px;
+}
+.button{
+     border-radius: 5px;
+}
+.pro{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(0, 190, 254);
+    width: 600px;
+    height: 100px;
+    margin-left: 280px;
+    margin-top: 80px;
+    border-radius: 5px;
+}
+.xyz{
+    margin-top: 30px;
+    border-radius: 5px;
+}
+.str{
+    background-color: white;
+}
+.ask{
+    text-align: center;
+    margin-top: 100px;
+}
+.today{
+    display: flex;
+    margin-top: 80px;
+    justify-content: space-between;
+}
+.opg{
+    background-color: blue;
+    height: 900px;
+    margin-top: 40px;
+}
+.opp{
+     display: flex;
+     justify-content: space-around;
+}
+.kpk{
+    background-color: white;
+    height: 600px;
+    width: 600px;
+    margin-top: 70px;
+    padding-left: 30px;
+    padding-top: 30px;
+    border-radius: 5px;
+    position: relative;
+    left: 100px;
+    bottom: 15px;
+}
+.jp{
+    background-color: red;
+    height: 310px;
+    width: 350px;
+    margin-top: 55px;
+    padding-left: 30px;
+    padding-bottom: 400px;
+    border-radius: 5px;
+    bottom: 15px;
+}
+.M{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    height: 240px;
+}
+.N{
+    display: inline;
+    margin-top: 20px;
+}
+.up{
+    margin-left: 100px;
+    position: relative;
+    top: 20px;
+}
+.submit{
+    height: 50px;
+    width: 500px;
+    border-radius: 5px;
+    margin-left: 100px;
+}
+.enter{
+    margin-bottom: 10px;
+}
+.icon{
+    margin-top: 20px;
+    padding-right: 60px;
+    position: relative;
+    right: 40px;
+    left: 10px;
+}
+.icon2{
+    margin-top: 100px;
+    position: relative;
+    right: 229px;
+    bottom: 20px;
+}
+
+@media (max-width: 768px) {
+   
+    
+}
+
+
+@media (max-width: 425px) {
+
+}
